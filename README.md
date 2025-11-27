@@ -1,4 +1,4 @@
-# 📍 LocationSaver — Aplicación Android en Kotlin
+# 📍 LocLog — Aplicación Android en Kotlin
 
 **LocationSaver** es una aplicación móvil moderna desarrollada en **Kotlin**, diseñada para guardar rápidamente la ubicación actual del usuario. Cada registro incluye:
 
